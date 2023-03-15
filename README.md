@@ -48,8 +48,8 @@ y_mean=m*3+b
 
 
 ## Output:
-![best fit line](ML_EXP1_1.png)
-![best fit line](ML_EXP1_2.png)
+![best fit line](1.png)
+![best fit line](2.png)
 
 
 ## Result:
